@@ -1,4 +1,3 @@
-# prizebond-checker
 # 🏆 Prize Bond Checker using Python & Selenium
 
 This project automates checking **Pakistani prize bonds** from the [HamariWeb Prize Bond Portal](https://hamariweb.com/finance/prizebonds/) using **Python, Selenium**, and **Excel files**.
